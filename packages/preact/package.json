@@ -29,7 +29,7 @@
     "@babel/plugin-transform-react-jsx": "^7.0.0",
     "@neutrinojs/compile-loader": "9.0.0-0",
     "@neutrinojs/web": "9.0.0-0",
-    "deepmerge": "^1.5.2",
+    "deepmerge": "^2.0.0",
     "eslint-plugin-react": "^7.11.1"
   },
   "devDependencies": {

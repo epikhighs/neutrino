@@ -24,7 +24,7 @@
   "dependencies": {
     "babel-core": "^7.0.0-bridge",
     "babel-jest": "^23.6.0",
-    "deepmerge": "^1.5.2",
+    "deepmerge": "^2.0.0",
     "eslint-plugin-jest": "^22.0.0"
   },
   "peerDependencies": {

@@ -34,7 +34,7 @@
     "@neutrinojs/html-template": "9.0.0-0",
     "@neutrinojs/image-loader": "9.0.0-0",
     "@neutrinojs/style-loader": "9.0.0-0",
-    "deepmerge": "^1.5.2",
+    "deepmerge": "^2.0.0",
     "terser-webpack-plugin": "^1.1.0",
     "webpack-manifest-plugin": "^2.0.4"
   },
